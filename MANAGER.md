@@ -1,7 +1,6 @@
 # MANAGER.readme
 
 Author: Stephen M. Walker II
-
 Last update: April 14, 2019
 
 ## What is this?
