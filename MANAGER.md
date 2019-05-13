@@ -1,9 +1,5 @@
 # MANAGER.readme
 
-Author: Stephen M. Walker II
-Last update: May 12, 2019
-Originally post: October 28, 2018
-
 ## What is this?
 This document enables you to get to quickly know me as a person and a leader. This is intended to clarify and accelerate our working relationship. It includes my principles, how I view my role, how I generally view your role, and general details about my day-to-day.
 
